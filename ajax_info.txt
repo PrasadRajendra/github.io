@@ -1,0 +1,4 @@
+hi,this is ajax call
+here we have to create object
+then write callback function
+then send request to server
